@@ -1,27 +1,21 @@
-# 你好 👋，我是jshhh!
+# Hello 👋, I'm jshhh!
 
-## 关于我
-我是一名学生，目前在哈尔滨工业大学攻读硕士学位。我对时序数据异常检测领域充满热情，并且正在寻求在这个领域的帮助和指导。
+## About Me
+I'm a student currently pursuing a master's degree at Harbin Institute of Technology. I am passionate about the field of time series anomaly detection.
 
-- 🔭 我目前的研究重点是时序数据异常检测，探索如何有效地识别和处理时序数据中的异常模式。
-- 🌱 我正在深入学习Python和Java，这两种语言在我的研究和开发工作中非常重要。
-- 👯 我希望能与对时序数据异常检测同样感兴趣的人合作，共同推进这一领域的研究。
-- 🤔 我在寻求帮助与时序数据异常检测相关的最新研究和技术。
-- 💬 问我关于时序数据异常检测的任何问题。
-- 📫 如何联系我：[你的电子邮件地址]。
-- 😄 代词：他。
-- ⚡ 有趣的事实：我热爱探索新技术，并喜欢在空闲时间进行编程挑战。
+- 🔭 My current research focus is on time series anomaly detection, exploring how to effectively identify and deal with abnormal patterns in time series data.
+- 👯 I'm looking to collaborate with others who are also interested in time series anomaly detection to advance research in this field.
+- 🤔 I'm seeking help with the latest research and technology related to time series anomaly detection.
+- 💬 Ask me anything about time series anomaly detection.
+- 📫 How to reach me: 463525487@qq.com.
+- ⚡ Fun fact: I love exploring new technologies and enjoy taking on programming challenges in my free time.
 
-## 技术栈
-- **编程语言**：![Python](#), ![Java](#)
-- **前端技术**：![Vue](#)
-- **后端技术**：![Spring Boot](#)
-- **数据库技术**：![MySQL](#)
-
-## 社交媒体
-- LinkedIn：[你的LinkedIn链接]
-- GitHub：[你的GitHub链接]
+## Tech Stack
+- **Programming Languages**: Python, Java
+- **Front-end Technologies**: Vue
+- **Back-end Technologies**: SpringBoot
+- **Database Technologies**: MySQL
 
 ---
 
-⭐️ 从 [jshhh](https://github.com/jshhh) 获取灵感
+
